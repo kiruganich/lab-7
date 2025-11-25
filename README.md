@@ -1,2 +1,3 @@
 # lab-7
-Counting the number of words written in Cyrillic in single-line comments ( // ) in a C program.
+## Подсчет число слов, записанных кириллицей в однострочных комментариях ( // ) в программе на Си
+
